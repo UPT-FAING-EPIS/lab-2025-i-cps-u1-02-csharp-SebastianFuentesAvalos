@@ -1,0 +1,32 @@
+{
+  "Cobertura/SummaryGithub.html": {
+    "href": "Cobertura/SummaryGithub.html",
+    "title": "Summary | Bank App",
+    "summary": "Summary Summary Generated on: 21/06/2025 - 18:58:21 Coverage date: 21/06/2025 - 18:56:59 - 21/06/2025 - 18:58:13 Parser: MultiReport (2x Cobertura) Assemblies: 1 Classes: 3 Files: 2 Line coverage: 25% (12 of 48) Covered lines: 12 Uncovered lines: 36 Coverable lines: 48 Total lines: 67 Branch coverage: 20% (2 of 10) Covered branches: 2 Total branches: 10 Method coverage: Feature is only available for sponsors Coverage Bank.WebApi - 25% Name Line Branch Bank.WebApi 25% 20% Bank.WebApi.Models.BankAccount 57.1% 33.3% Program 0% 0% WeatherForecast 0%"
+  },
+  "docs/Bank.WebApi.Models.BankAccount.html": {
+    "href": "docs/Bank.WebApi.Models.BankAccount.html",
+    "title": "Class BankAccount | Bank App",
+    "summary": "Class BankAccount Namespace Bank.WebApi.Models Assembly Bank.WebApi.dll public class BankAccount Inheritance object BankAccount Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors BankAccount(string, double) public BankAccount(string customerName, double balance) Parameters customerName string balance double Properties Balance public double Balance { get; } Property Value double CustomerName public string CustomerName { get; } Property Value string Methods Credit(double) public void Credit(double amount) Parameters amount double Debit(double) public void Debit(double amount) Parameters amount double"
+  },
+  "docs/Bank.WebApi.Models.html": {
+    "href": "docs/Bank.WebApi.Models.html",
+    "title": "Namespace Bank.WebApi.Models | Bank App",
+    "summary": "Namespace Bank.WebApi.Models Classes BankAccount"
+  },
+  "docs/Bank.WebApi.Tests.BankAccountTests.html": {
+    "href": "docs/Bank.WebApi.Tests.BankAccountTests.html",
+    "title": "Class BankAccountTests | Bank App",
+    "summary": "Class BankAccountTests Namespace Bank.WebApi.Tests Assembly Bank.WebApi.Tests.dll [TestClass] public class BankAccountTests Inheritance object BankAccountTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Debit_WithValidAmount_UpdatesBalance() [TestMethod] public void Debit_WithValidAmount_UpdatesBalance()"
+  },
+  "docs/Bank.WebApi.Tests.html": {
+    "href": "docs/Bank.WebApi.Tests.html",
+    "title": "Namespace Bank.WebApi.Tests | Bank App",
+    "summary": "Namespace Bank.WebApi.Tests Classes BankAccountTests"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE. | Bank App",
+    "summary": "This is the HOMEPAGE. Diagrama de Clases Pruebas"
+  }
+}
