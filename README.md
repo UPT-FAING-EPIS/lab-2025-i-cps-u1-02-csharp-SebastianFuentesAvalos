@@ -3,6 +3,7 @@
 # SESION DE LABORATORIO N° 02: PRUEBAS ESTATICAS DE SEGURIDAD DE APLICACIONES CON SNYK
 
 # ALUMNO: SEBASTIAN NICOLAS FUENTES AVALOS
+# ----------------------------------------
 
 ## OBJETIVOS
   * Comprender el funcionamiento de las pruebas estaticas de seguridad de còdigo de las aplicaciones que desarrollamos utilizando Snyk.
